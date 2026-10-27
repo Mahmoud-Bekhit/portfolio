@@ -33,15 +33,11 @@ Single static page: **HTML, CSS and vanilla JavaScript**, no build step. Fonts f
 
 ```
 portfolio/
-├── index.html                  # the whole site
-├── assets/
-│   ├── Mahmoud_Bekhit_CV.pdf   # "Download CV" button
-│   ├── demo-diagnosed.jpg      # pipeline demo output (leaf)
-│   ├── demo-rejected.jpg       # pipeline demo output (non-leaf)
-│   ├── sample-leaf.jpg         # demo input
-│   └── sample-moon.jpg         # demo input
+├── index.html   # the whole site, with images and CV embedded inline
 └── README.md
 ```
+
+Everything (demo images and the downloadable CV) is embedded inside `index.html`, so the site is a single self-contained file with no external assets.
 
 ## Run locally
 
