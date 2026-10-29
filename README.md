@@ -1,6 +1,6 @@
 # Mahmoud Bekhit — AI & ML Engineer Portfolio
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-mahmoud-bekhit.github.io%2Fportfolio-22d3ee?style=for-the-badge&logo=githubpages&logoColor=white)](https://mahmoud-bekhit.github.io/portfolio/)
+[![Live Site](https://img.shields.io/badge/Live%20Site-mahmoud--bekhit.github.io%2Fportfolio-22d3ee?style=for-the-badge&logo=githubpages&logoColor=white)](https://mahmoud-bekhit.github.io/portfolio/)
 
 Personal portfolio of **Mahmoud Bekhit**, a Computer & Control Engineer working on machine learning, computer vision and data analytics.
 
